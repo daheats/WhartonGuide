@@ -1,0 +1,139 @@
+{
+  "intents": [
+    {
+      "intent": "WhartonGuideIntent"
+    },
+    {
+      "intent": "WhartonGenIntent"
+    },
+    {
+      "intent": "BioIntent"
+    },
+    {
+      "intent": "PlacesIntent"
+    },
+    {
+      "intent": "RepromptIntent"
+    },
+    {
+      "intent": "DanAligIntent"
+    },
+    {
+      "intent": "DanAligEasterEggIntent"
+    },
+    {
+      "intent": "DanNameIntent"
+    },
+    {
+      "intent": "AmericusIntent"
+    },
+    {
+      "intent": "AmericusNameIntent"
+    },
+    {
+      "intent": "GGIntent"
+    },
+    {
+      "intent": "GGNameIntent"
+    },
+    {
+      "intent": "PBLIntent"
+    },
+    {
+      "intent": "PBLNameIntent"
+    },
+    {
+      "intent": "PBLTeachIntent"
+    },
+    {
+      "intent": "StoreIntent"
+    },
+    {
+      "intent": "WhartonHRIntent"
+    },
+    {
+      "intent": "StudentSupportIntent"
+    },
+    {
+      "intent": "WhartonComputingIntent"
+    },
+    {
+      "intent": "WCFacultySupportIntent"
+    },
+    {
+      "intent": "WCStaffSupportIntent"
+    },
+    {
+      "intent": "WhartonComputingSupportIntent"
+    },
+    {
+      "intent": "StaffFacHelpIntent"
+    },
+    {
+      "intent": "StudentHelpIntent"
+    },
+    {
+      "intent": "WhartonStoreIntent"
+    },
+    {
+      "intent": "PennBookStoreIntent"
+    },
+    {
+      "intent": "PennBookStoreAddlIntent"
+    },
+    {
+      "intent": "PennCardIntent"
+    },
+    {
+      "intent": "ComputerConnIntent"
+    },
+    {
+      "intent": "CoffeeIntent"
+    },
+    {
+      "intent": "SSSupportIntent"
+    },
+    {
+      "intent": "WhartonFactIntent"
+    },
+    {
+      "intent": "AnotherFactIntent"
+    },
+    {
+      "intent": "McNultyIntent"
+    },
+    {
+      "intent": "OpsIntent"
+    },
+    {
+      "intent": "HRLocationIntent"
+    },
+    {
+      "intent": "StoreLocationIntent"
+    },
+    {
+      "intent": "SSupportLocalIntent"
+    },
+    {
+      "intent": "McNultyLocationIntent"
+    },
+    {
+      "intent": "OpsLocationIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

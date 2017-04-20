@@ -1,0 +1,57 @@
+WhartonGenIntent to tell me about wharton
+WhartonGenIntent Wharton
+BioIntent I want to hear a biography
+BioIntent Biographies
+PlacesIntent Places
+DanAligIntent Dan Alig
+DanAligIntent Who is Dan Alig
+DanAligEasterEggIntent How much stock does Dan Alig have in Amazon
+DanNameIntent Who is the CIO of Wharton
+AmericusIntent Who is Americus Reed
+AmericusIntent to tell me about Americus Reed
+AmericusNameIntent Who is the only identity theorist at Wharton
+GGIntent to tell me about the Dean of The Wharton School
+GGIntent Who is Geoffrey Garrett
+GGIntent Geoffrey Garrett
+GGIntent to tell me about Geoffrey Garrett
+GGNameIntent who is the Dean of The Wharton School
+GGNameIntent who is the Dean of Wharton
+PBLIntent Tell me about Peggy Bishop Lane
+PBLNameIntent Who is the Vice Dean of WEMBA
+PBLNameIntent Who is the Vice Dean of the Wharton MBA for Executives Program
+PBLNameIntent Who is the Vice Dean of WEMBA
+PBLNameIntent Who is the Vice Dean of Executive MBA Program at Wharton
+WhartonHRIntent Where can I find Wharton HR
+StudentSupportIntent where can I find student support
+WhartonComputingIntent I need help with my computer
+WhartonComputingIntent what to do about a computer virus. I need help
+WhartonComputingIntent I need help setting my email up on my phone
+WhartonComputingIntent the printer isn't printing
+WhartonComputingIntent BEN Financials is broked
+WhartonComputingIntent my computer has a virus
+WhartonComputingIntent where can I get help with my computer
+WhartonComputingIntent Wharton Computing
+WCFacultySupportIntent faculty support
+WCStaffSupportIntent staff support
+StaffFacHelpIntent staff
+StaffFacHelpIntent faculty
+StudentHelpIntent student
+WhartonStoreIntent where can I find Wharton swag
+WhartonStoreIntent where can I find a Wharton umbrella
+WhartonStoreIntent where can I find Wharton gifts
+PennBookStoreIntent where can I find the Penn Bookstore
+PennBookStoreAddlIntent where can I find textbooks for class
+PennBookStoreAddlIntent where can I find Penn swag
+PennCardIntent where can I get a PennCard
+ComputerConnIntent where can I find accessories for my computer
+ComputerConnIntent where can I get another iPhone cable
+ComputerConnIntent where can I get a laptop bag
+CoffeeIntent where can I find the best cup of coffee
+WhartonFactIntent Facts
+WhartonFactIntent to tell me a fact about Wharton
+WhartonFactIntent to tell me something about Wharton
+WhartonFactIntent for a fact about Wharton
+WhartonFactIntent for a Wharton fact
+WhartonFactIntent for a fact
+WhartonFactIntent fact
+AnotherFactIntent another fact
